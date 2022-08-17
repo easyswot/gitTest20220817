@@ -11,6 +11,6 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 <p> gitTest</p>
-<p>github test</p>
+<p>spring update</p>
 </body>
 </html>
